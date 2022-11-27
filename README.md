@@ -4,4 +4,5 @@ This project entails an Web Based Streamlit Application featuring various module
 
 ### Current available working modules:
 **1. E-commerce Churn Precition (Classification)**
+
 **2. Review Classification (Natural Language Processing)**
