@@ -1,4 +1,7 @@
 # Marketing_n_Retail
-This Repo will contain sample ML use case/project demos
 
-This Project is **UNDER CONTRUCION** and has yet to be completed.
+This project entails an Web Based Streamlit Application featuring various modules for solving problems in the marketing and retail sectors through Machine Learning, Data Analytics and Data Science solutions.
+
+Current available working modules:
+### 1. E-commerce Churn Precition (Classification)
+### 2. Review Classification (Natural Language Processing)
